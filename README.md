@@ -1,2 +1,2 @@
-# identicon-js
-JS-library for drowing identicon (WASM used)
+# wasm-js-identicon
+wasm-js-identicon
